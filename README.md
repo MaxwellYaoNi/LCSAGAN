@@ -1,2 +1,2 @@
 # LCSAGAN
-Code for "Manifold Learning Benefits GAN" (CVPR 2022)
+Source Code for "Manifold Learning Benefits GAN" (CVPR 2022)
